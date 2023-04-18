@@ -1,6 +1,6 @@
 # Curso basico de GITHUB!
 
-Se crea archivo markdown para la descripción del curso
+Se crea archivo markdown para la descripción del curso basico de manejo de github del bootcamp de desarrollo web full stack
 
 
 ## Bootcamp desarrollo Web Full Stack
