@@ -9,7 +9,7 @@ Se crea archivo markdown para la descripción del curso
 
 ## Unidad 1
 
-Introducción al desarrollo web
+Introducción al desarrollo web  y GitHub
 
 ## Unidad 2 
 
